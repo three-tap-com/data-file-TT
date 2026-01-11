@@ -1,0 +1,155 @@
+﻿# 📊 Three-Tap JoSAA Cleaned Datasets Repository
+
+Welcome to the **Three-Tap Data Repository** 👋  
+This repository contains **year-wise cleaned and structured JoSAA counselling datasets**, prepared and maintained by the **Three-Tap team**.
+
+The datasets are designed to support:
+- Rank analysis
+- College & branch cutoff insights
+- Trend analysis across years
+- Data-driven counselling platforms (like **Three-Tap**)
+
+---
+
+## 📁 Repository Structure
+
+
+> 📌 Each folder represents a **JoSAA counselling year**, and files inside are **round-wise cleaned CSV datasets**.
+
+---
+
+## 📄 Dataset Description
+
+Each CSV file typically contains the following columns:
+
+| Column Name | Description |
+|------------|------------|
+| Institute  | Name of the Institute |
+| Branch     | Academic Program / Branch |
+| Quota      | Quota type (AI, HS, etc.) |
+| Category   | Category (GEN, OBC, SC, ST, etc.) |
+| Gender     | Gender Neutral / Female Only |
+| OpenRank  | Opening Rank |
+| CloseRank | Closing Rank |
+
+✔ Data is **cleaned**  
+✔ No missing rows  
+✔ Structured for direct analysis  
+
+---
+
+## 🔄 Data Source
+
+- Official **JoSAA Counselling Website**
+- Data extracted from publicly available cutoff tables
+- HTML data parsed and cleaned using **Python (BeautifulSoup + Pandas)**
+
+---
+
+## 🎯 Use Cases
+
+This repository can be used for:
+- 📈 Rank vs College prediction models  
+- 📊 Year-wise cutoff trend analysis  
+- 🤖 AI-based counselling platforms  
+- 🧠 Data analytics & research projects  
+- 🧪 Machine learning experiments  
+
+---
+
+## 🚀 Three-Tap Platform
+
+This dataset powers **Three-Tap**, a student counselling and rank analysis platform that helps aspirants:
+- Analyze previous year cutoffs
+- Compare colleges & branches
+- Make informed admission decisions
+
+🌐 Website: https://three-tap.com 
+
+---
+
+## 🤝 Contributions
+
+Contributions are welcome!
+
+You can contribute by:
+- Adding new **year-wise datasets**
+- Improving data cleaning
+- Adding missing rounds
+- Reporting data inconsistencies
+
+### How to contribute:
+1. Fork the repository
+2. Create a new branch
+3. Add or update datasets
+4. Submit a pull request
+
+## 👥 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/alokartist">
+        <img src="https://github.com/alokartist.png" width="100px" alt="Alok Kumar Avatar"/>
+        <br /><br />
+        <sub><b>Alok Kumar</b></sub>
+      </a>
+      <br />
+      <sub>Data Analyst & Developer</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/ID-ALOKARTIST-2E8BFF?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+
+<a href="https://github.com/rimjhimart">
+    <img src="https://github.com/rimjhimart.png" width="100px" alt="Rimjhim Gupta Avatar" />
+    <br /><br />
+    <sub><b>Rimjhim Gupta</b></sub>
+  </a>
+  <br />
+  <sub>Co-Analyst &amp; Research Support</sub>
+  <br /><br />
+  <img src="https://img.shields.io/badge/ID-RIMJHIMART-BB62F3?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+</td>
+
+<td align="center">
+<a href="https://github.com/connectmeom-droid">
+    <img src="https://github.com/connectmeom-droid.png" width="100px" alt="connectmeom-droid Avatar" />
+    <br /><br />
+    <sub><b>Om Gupta</b></sub>
+  </a>
+  <br />
+  <sub>Developer</sub>
+  <br /><br />
+  <img src="https://img.shields.io/badge/ID-CONNECTMEDROID-BB62F3?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+</td>
+
+  </tr>
+</table>
+
+
+*(More contributors will be added as the project grows)*
+
+---
+
+
+## 📜 License
+
+This repository is intended for **educational and research purposes**.  
+All data is sourced from publicly available information.
+
+If you use this data for academic or commercial purposes, please provide appropriate credit.
+
+---
+
+## ⭐ Support
+
+If you find this repository useful:
+- ⭐ Star the repo
+- 🍴 Fork it
+- 🔗 Share it with fellow aspirants and researchers
+
+---
+
+**Built with data. Driven by decisions.  
+— Team Three-Tap**
+
