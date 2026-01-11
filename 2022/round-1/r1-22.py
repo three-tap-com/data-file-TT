@@ -27,5 +27,5 @@ for row in rows:
 
 df = pd.DataFrame(rows_data)
 df.to_csv("r1-22.csv", index=False)
-
+ 
 print("✅ CSV created successfully")
